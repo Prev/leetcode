@@ -13,5 +13,7 @@ LeetCode Problem Solving in Python.
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| Easy | [O(1)](problems/7-reverse-integer/solution-constant.py) |
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| Medium | [O(n)](problems/8-string-to-integer-atoi/solution-linear.py) |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| Easy | [O(n)](problems/9-palindrome-number/solution-linear.py) |
-
-
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| Hard | [O(n^2)](problems/10-regular-expression-matching/solution-quadratic.py) |
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| Medium | [O(n)](problems/11-container-with-most-water/solution-linear.py) |
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| Medium | [O(1)](problems/12-integer-to-roman/solution-constant.py) |
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| Easy | [O(1)](problems/13-roman-to-integer/solution-constant.py) |
