@@ -17,3 +17,5 @@ LeetCode Problem Solving in Python.
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| Medium | [O(n)](problems/11-container-with-most-water/solution-linear.py) |
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| Medium | [O(1)](problems/12-integer-to-roman/solution-constant.py) |
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| Easy | [O(1)](problems/13-roman-to-integer/solution-constant.py) |
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| Easy | [O(n^2)](problems/14-longest-common-prefix/solution-quadratic.py) |
+|15|[3Sum](https://leetcode.com/problems/3sum/)| Medium | [O(n^2)](problems/15-3sum/solution-quadratic.py) |
