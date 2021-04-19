@@ -19,3 +19,6 @@ LeetCode Problem Solving in Python.
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| Easy | [O(1)](problems/13-roman-to-integer/solution-constant.py) |
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| Easy | [O(n^2)](problems/14-longest-common-prefix/solution-quadratic.py) |
 |15|[3Sum](https://leetcode.com/problems/3sum/)| Medium | [O(n^2)](problems/15-3sum/solution-quadratic.py) |
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| Medium | [O(n^2)](problems/16-3sum-closest/solution-quadratic.py) |
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| Medium | [O(1)](problems/17-letter-combinations-of-a-phone-number/solution-constant.py) |
+|18|[4Sum](https://leetcode.com/problems/4sum/)| Medium | [O(n^3)](problems/18-4sum/solution-cubic.py) |
