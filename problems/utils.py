@@ -14,6 +14,9 @@ class ListNode:
 def array2listnode(array: List[int]):
     """ Convert array(list) to linked list of ListNodes
     """
+    if len(array) == 0:
+        return None
+
     head = ListNode(array[0])
     tail = head
 

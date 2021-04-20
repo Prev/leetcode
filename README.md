@@ -24,3 +24,6 @@ LeetCode Problem Solving in Python.
 |18|[4Sum](https://leetcode.com/problems/4sum/)| Medium | [O(n^3)](problems/18-4sum/solution-cubic.py) |
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| Medium | [O(n)](problems/19-remove-nth-node-from-end-of-list/solution-linear.py) |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| Easy | [O(n)](problems/20-valid-parentheses/solution-linear.py) |
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| Easy | [O(n)](problems/21-merge-two-sorted-lists/solution-linear.py) |
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| Medium | [Sol](problems/22-generate-parentheses/solution.py) |
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| Hard | [O(nlogn)](problems/23-merge-k-sorted-lists/solution-nlogn.py) |
