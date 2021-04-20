@@ -3,13 +3,9 @@ Problem: https://leetcode.com/problems/add-two-numbers/
 Author: Youngsoo Lee
 Time complexity: O(max(n+m))
 """
-
-
-# Definition for singly-linked list.
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
+import sys
+sys.path.insert(0, '..') # hack for importing utils
+from utils import ListNode, array2listnode, listnode2array
 
 
 class Solution:
@@ -45,26 +41,11 @@ class Solution:
 
 if __name__ == '__main__':
     s = Solution()
-    
-    def listToListNode(list_items):
-        head = ListNode(list_items[0])
-        tail = head
-
-        for i in range(1, len(list_items)):
-            tail.next = ListNode(list_items[i])
-            tail = tail.next
-
-        return head
 
     def runAlgorithm(l1, l2):
         # Convert list to a linked list before passing the params.
         # After calling the solution function, re-convert the linked node value to a list value.
-        node = s.addTwoNumbers(listToListNode(l1), listToListNode(l2))
-        ret = []
-        while node:
-            ret.append(node.val)
-            node = node.next
-        return ret
+        return listnode2array(s.addTwoNumbers(array2listnode(l1), array2listnode(l2)))
 
     assert runAlgorithm([2,4,3], [5,6,4]) == [7,0,8]
     assert runAlgorithm([0], [0]) == [0]

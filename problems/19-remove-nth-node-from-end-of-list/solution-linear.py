@@ -3,13 +3,9 @@ Problem: https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissi
 Author: Youngsoo Lee
 Time complexity: O(n)
 """
-
-
-# Definition for singly-linked list.
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
+import sys
+sys.path.insert(0, '..') # hack for importing utils
+from utils import ListNode, array2listnode, listnode2array
 
 
 class Solution:
@@ -32,30 +28,14 @@ class Solution:
 
         return head
 
+
 if __name__ == '__main__':
     s = Solution()
-
-    def a2ll(array):
-        # Array to link list
-        head = ListNode(array[0])
-        tail = head
-
-        for i in range(1, len(array)):
-            tail.next = ListNode(array[i])
-            tail = tail.next
-
-        return head
 
     def runAlgorithm(array, n):
         # Convert list to a linked list before passing the params.
         # After calling the solution function, re-convert the linked node value to a list value.
-        node = s.removeNthFromEnd(a2ll(array), n)
-        ret = []
-        while node:
-            ret.append(node.val)
-            node = node.next
-        print(ret)
-        return ret
+        return listnode2array(s.removeNthFromEnd(array2listnode(array), n))
 
     assert runAlgorithm([1,2,3,4,5], 2) == [1,2,3,5]
     assert runAlgorithm([1], 1) == []
