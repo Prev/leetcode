@@ -10,8 +10,8 @@ LeetCode Problem Solving in Python.
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [O(n)](problems/4-median_of-two-sorted-arrays/solution-linear.py), [O(log(n))](problems/4-median_of-two-sorted-arrays/solution-logarithmic.py) |
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [O(n^2)](problems/5-longest-palindromic-substring/solution-quadratic.py) |
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| Medium | [O(n)](problems/6-zigzag-conversion/solution-linear.py) |
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| Easy | [O(1)](problems/7-reverse-integer/solution-constant.py) |
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| Medium | [O(n)](problems/8-string-to-integer-atoi/solution-linear.py) |
+|7|[Reverse Integer 👎](https://leetcode.com/problems/reverse-integer/)| Easy | [O(1)](problems/7-reverse-integer/solution-constant.py) |
+|8|[String to Integer (atoi) 👎](https://leetcode.com/problems/string-to-integer-atoi/)| Medium | [O(n)](problems/8-string-to-integer-atoi/solution-linear.py) |
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| Easy | [O(n)](problems/9-palindrome-number/solution-linear.py) |
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| Hard | [O(n^2)](problems/10-regular-expression-matching/solution-quadratic.py) |
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| Medium | [O(n)](problems/11-container-with-most-water/solution-linear.py) |
@@ -29,3 +29,11 @@ LeetCode Problem Solving in Python.
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| Hard | [O(nlogn)](problems/23-merge-k-sorted-lists/solution-nlogn.py) |
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| Medium | [O(n)](problems/24-swap-nodes-in-pairs/solution-linear.py) |
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| Hard | [O(n)](problems/25-reverse-nodes-in-k-group/solution-linear.py) |
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| Easy | [O(n)](problems/26-remove-duplicates-from-sorted-array/solution-linear.py) |
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)| Easy | [O(n)](problems/27-remove-element/solution-linear.py) |
+|28|[Implement strStr() 👎](https://leetcode.com/problems/implement-strstr/)| Easy | [O(n^2)](problems/28-implement-strstr/solution-quadratic.py) |
+|29|[Divide Two Integers 👎](https://leetcode.com/problems/divide-two-integers/)| Medium | [O(1)](problems/29-divide-two-integers/solution-constant.py) |
+
+<br>
+Note: 👎 means indicates that there are more downvotes than upvotes in leetcode and I agreed to that the problem is not that good.
+
