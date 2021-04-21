@@ -27,3 +27,5 @@ LeetCode Problem Solving in Python.
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| Easy | [O(n)](problems/21-merge-two-sorted-lists/solution-linear.py) |
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| Medium | [Sol](problems/22-generate-parentheses/solution.py) |
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| Hard | [O(nlogn)](problems/23-merge-k-sorted-lists/solution-nlogn.py) |
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| Medium | [O(n)](problems/24-swap-nodes-in-pairs/solution-linear.py) |
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| Hard | [O(n)](problems/25-reverse-nodes-in-k-group/solution-linear.py) |
