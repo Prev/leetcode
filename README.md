@@ -33,7 +33,10 @@ LeetCode Problem Solving in Python.
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| Easy | [O(n)](problems/27-remove-element/solution-linear.py) |
 |28|[Implement strStr() 👎](https://leetcode.com/problems/implement-strstr/)| Easy | [O(n^2)](problems/28-implement-strstr/solution-quadratic.py) |
 |29|[Divide Two Integers 👎](https://leetcode.com/problems/divide-two-integers/)| Medium | [O(1)](problems/29-divide-two-integers/solution-constant.py) |
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| Hard | [O(nmlogm)](problems/30-substring-with-concatenation-of-all-words/solution-nmlogm.py) |
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| Medium | [O(nlogn)](problems/31-next-permutation/solution-nlogn.py) |
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| Hard | [O(n)](problems/32-longest-valid-parentheses/solution-linear.py) |
 
 <br>
-Note: 👎 means indicates that there are more downvotes than upvotes in leetcode and I agreed to that the problem is not that good.
+Note: 👎 indicates that there are more downvotes than upvotes in leetcode and I agreed to that the problem is not that good.
 
