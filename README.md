@@ -39,8 +39,7 @@ LeetCode Problem Solving in Python.
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| Medium | [O(logn)](problems/33-search-in-rotated-sorted-array/solution-logarithmic.py) |
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| Medium | [O(logn)](problems/34-find-first-and-last-position-of-element-in-sorted-array/solution-logarithmic.py) |
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| Easy | [O(logn)](problems/35-search-insert-position/solution-logarithmic.py) |
-|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| Medium | [O(logn)](problems/36-valid-sudoku/solution-logarithmic.py) |
-
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| Medium | [O(1)](problems/36-valid-sudoku/solution-constant.py) |
 
 <br>
 Note: 👎 indicates that there are more downvotes than upvotes in leetcode and I agreed to that the problem is not that good.
