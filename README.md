@@ -36,6 +36,11 @@ LeetCode Problem Solving in Python.
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| Hard | [O(nmlogm)](problems/30-substring-with-concatenation-of-all-words/solution-nmlogm.py) |
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| Medium | [O(nlogn)](problems/31-next-permutation/solution-nlogn.py) |
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| Hard | [O(n)](problems/32-longest-valid-parentheses/solution-linear.py) |
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| Medium | [O(logn)](problems/33-search-in-rotated-sorted-array/solution-logarithmic.py) |
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| Medium | [O(logn)](problems/34-find-first-and-last-position-of-element-in-sorted-array/solution-logarithmic.py) |
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| Easy | [O(logn)](problems/35-search-insert-position/solution-logarithmic.py) |
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| Medium | [O(logn)](problems/36-valid-sudoku/solution-logarithmic.py) |
+
 
 <br>
 Note: 👎 indicates that there are more downvotes than upvotes in leetcode and I agreed to that the problem is not that good.
