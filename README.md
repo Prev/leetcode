@@ -40,6 +40,9 @@ LeetCode Problem Solving in Python.
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| Medium | [O(logn)](problems/34-find-first-and-last-position-of-element-in-sorted-array/solution-logarithmic.py) |
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| Easy | [O(logn)](problems/35-search-insert-position/solution-logarithmic.py) |
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| Medium | [O(1)](problems/36-valid-sudoku/solution-constant.py) |
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| Hard | [Sol](problems/37-sudoku-solver/solution.py) |
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)| Medium | [O(2^n)](problems/38-count-and-say/solution-exponential.py) |
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| Medium | [O(nm)](problems/39-combination-sum/solution-nm.py) |
 
 <br>
 Note: 👎 indicates that there are more downvotes than upvotes in leetcode and I agreed to that the problem is not that good.
