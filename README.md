@@ -43,6 +43,8 @@ LeetCode Problem Solving in Python.
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| Hard | [Sol](problems/37-sudoku-solver/solution.py) |
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)| Medium | [O(2^n)](problems/38-count-and-say/solution-exponential.py) |
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| Medium | [O(nm)](problems/39-combination-sum/solution-nm.py) |
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| Medium | [O(2^n)](problems/40-combination-sum-ii/solution-exponential.py) |
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| Hard | [O(n)](problems/41-first-missing-positive/solution-linear.py), [O(nlogn)](problems/41-first-missing-positive/solution-nlogn.py) |
 
 <br>
 Note: 👎 indicates that there are more downvotes than upvotes in leetcode and I agreed to that the problem is not that good.
