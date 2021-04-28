@@ -45,6 +45,9 @@ LeetCode Problem Solving in Python.
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| Medium | [O(nm)](problems/39-combination-sum/solution-nm.py) |
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| Medium | [O(2^n)](problems/40-combination-sum-ii/solution-exponential.py) |
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| Hard | [O(n)](problems/41-first-missing-positive/solution-linear.py), [O(nlogn)](problems/41-first-missing-positive/solution-nlogn.py) |
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| Hard | [O(n)](problems/42-trapping-rain-water/solution-linear.py) |
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| Medium | [O(nm)](problems/43-multiply-strings/solution-nm.py) |
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)| Hard | [O(nm)](problems/44-wildcard-matching/solution-nm.py) |
 
 <br>
 Note: 👎 indicates that there are more downvotes than upvotes in leetcode and I agreed to that the problem is not that good.
