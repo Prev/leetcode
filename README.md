@@ -51,6 +51,9 @@ LeetCode Problem Solving in Python.
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| Medium | [O(n^2)](problems/45-jump-game-ii/solution-quadratic.py) |
 |46|[Permutations](https://leetcode.com/problems/permutations/)| Medium | [O(n!)](problems/46-permutations/solution-factorial.py) |
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)| Medium | [O(n!)](problems/47-permutations-ii/solution-factorial.py) |
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| Medium | [O(n^2)](problems/48-rotate-image/solution-quadratic.py) |
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)| Medium | [O(nmlogm)](problems/49-group-anagrams/solution-nmlogm.py) |
+|50|[Pow(x, n) 🤦](https://leetcode.com/problems/powx-n/)| Medium | [O(1)](problems/50-powx-n/solution-constant.py) |
 
 
 <br>
